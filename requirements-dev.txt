@@ -8,3 +8,4 @@ mkdocs-material-extensions
 mkdocstrings[python]
 mkdocs-section-index
 mkdocs-literate-nav
+urllib3>=2.2.2 # not directly required, pinned by Snyk to avoid a vulnerability
