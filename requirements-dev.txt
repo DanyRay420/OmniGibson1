@@ -8,3 +8,4 @@ mkdocs-material-extensions
 mkdocstrings[python]
 mkdocs-section-index
 mkdocs-literate-nav
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
